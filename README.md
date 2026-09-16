@@ -17,4 +17,4 @@
 `index.html`을 브라우저로 더블클릭하면 실행됩니다. Node.js와 npm이 필요하지 않습니다.
 
 
-https://pcmanual-emu9s7ki.manus.space 매뉴얼 소개 주소
+https://pcmanual-emu9s7ki.manus.space 매뉴얼 소개 
